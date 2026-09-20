@@ -5,13 +5,13 @@ export default {
     fa: {
         title: 'روشنک',
         desc: [
-            '... وحید دست در آغوش زنی پوشیده در آرایشی پرتکلّف با اندامی عریان، شهوت زده و هوسناک پیچ‌وتاب می‌خورد. مهشید درون چهارچوب در بیحرکت ایستاده، ماند. درون قلبش، تپنده و خونین، احساس‌های پوشالی و دروغین آن سالهایش را سر می‌بریدند...'
+            'مهشید وحید را دوست نداشت. وحید شوهرش بود؛ پدر تنها دخترش، با اینهمه در تمام آن سالها هیچگاه سیلانی عاشقانه در وجودش نسبت به وحید احساس نکرده بود. حتی به وقت هم‌آغوشی‌ها، آنگاه که بدنهاشان به هم می‌پیچید و نفسهاشان در هم می‌آمیخت، از لبهایش بوسه‌ای عاشقانه برنمی‌آمد و در چشمانش نمناکی عشقی، هرچند کوچک، پیدا نبود...'
         ]
     },
     en: {
         title: 'Roshanak',
         desc: [
-            '... Vahid writhes in the embrace of a woman covered in elaborate makeup, her body bare, lustful and inviting. Mahshid stands motionless in the doorframe. In her throbbing, bleeding heart, the fake and false feelings of those years were being slaughtered...'
+            'Mahshid did not love Vahid. Vahid was her husband; the father of her only daughter. And yet, through all those years, she had never felt a wave of love for Vahid within her. Even in their embraces—when their bodies entwined and their breaths mingled—no loving kiss rose from her lips, and in her eyes there was no dew of love, however small, to be found...'
         ]
     }
 };

@@ -5,13 +5,13 @@ export default {
     fa: {
         title: 'ماجرای خانواده آقای کوچه‌باغی',
         desc: [
-            '... سوری‌خانم دست‌هایش را زیرِ شیر آب گرفت و شست. از بیرون صدایی شنید. رفت دمِ پنجره‌ی آشپزخانه. صدا از یک مردِ پر ریش و پشم بود که کلاه داشت و سیگار هم می‌کشید. چرخ‌های گاری‌دستیِ قراضه‌اش به چاله‌چوله‌های کوچه می‌گرفتند و تلق‌وتلوق صدا می‌دادند...'
+            'هفته‌ی آخرِ تابستان بود. ماهان‌کوچولو، تک‌پسرِ خانواده‌ی آقای کوچه‌باغی، درون اتاقِ مشترکِ خودش و خواهرش با کامیونی پر از نخودچی در حال اجرای یک بازی کودکانه بود. کامیون با رنگ سبزِ خوشرنگش بر روی فرشِ قرمزی که سوری‌خانم، مادرِ ماهان‌کوچولو، کفِ اتاق پهن کرده بود، جلوه و جلای خاصی داشت...'
         ]
     },
     en: {
         title: 'The Story of Mr. Kuchebagi\'s Family',
         desc: [
-            '... Suri Khanum washed her hands under the tap. She heard a voice from outside and went to the kitchen window. The voice belonged to a scruffy, bearded man wearing a hat and smoking a cigarette. The wheels of his battered handcart rattled and clattered over the potholes of the alley...'
+            'It was the last week of summer. Little Mahan, the only son of Mr. Kuchebagi\'s family, was in the shared room he had with his sister, playing a children\'s game with a truck full of roasted chickpeas. With its glossy green color, the truck had a special shine on the red carpet that Suri Khanum, Little Mahan\'s mother, had spread across the floor of the room...'
         ]
     }
 };
